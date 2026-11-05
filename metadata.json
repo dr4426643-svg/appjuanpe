@@ -1,0 +1,8 @@
+{
+  "name": "Survivors Mellado - Acondicionamiento Físico 3D",
+  "description": "App móvil Android de preparación y acondicionamiento físico de alto rendimiento para el equipo de baloncesto Survivors de Mellado con visualizador táctico 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
